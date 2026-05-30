@@ -79,7 +79,17 @@ No AI needed! The app uses simple logic:
 Rain or wind detected? Extra tips are added automatically.
 
 ---
+## App Preview
 
+![Preview](assets/screenshots/app-preview.png)
+
+---
+
+## Live Demo
+
+https://takoss-app.netlify.app
+
+---
 ## 🙋 Author
 
 Built by **Fatima koumayha** — junior developer learning to build with APIs.
