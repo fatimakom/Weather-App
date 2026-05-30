@@ -56,20 +56,6 @@ Open `index.html` in your browser and replace `YOUR_OPENWEATHER_API_KEY` in the 
 
 ---
 
-## 🗂️ Project Structure
-
-```
-weather-app/
-├── weather.py        # Python CLI app
-├── index.html        # Web app (HTML + CSS + JS)
-├── requirements.txt  # Python dependencies
-├── .env.example      # API key template
-├── .gitignore
-└── README.md
-```
-
----
-
 ## 🛠️ Tech Stack
 
 - **Python 3.10+**
@@ -96,13 +82,7 @@ Rain or wind detected? Extra tips are added automatically.
 
 ## 🙋 Author
 
-Built by **[Your Name]** — junior developer learning to build with APIs.
+Built by **Fatima koumayha** — junior developer learning to build with APIs.
 
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@fatima koumayha](https://github.com/fatimakom/Weather-App.git)
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-
----
-
-## 📄 License
-
-MIT — free to use and modify.
